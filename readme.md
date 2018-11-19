@@ -26,18 +26,6 @@ node app.js
 
 <br>
 
-## :v: Greetz 
-
-```
-JoaoVirgili
-Pride
-Conspiracionista
-Dido32
-Evo0o0
-Princess Leia
-Dragoso
-```
-
 
 
 ## :mailbox_with_mail: License 
