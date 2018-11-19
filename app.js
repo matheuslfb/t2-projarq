@@ -57,10 +57,10 @@ function victoryPattern(game){
 }
 
 // Inclui o diretório de arquivos para você poder acessar no projeto
-app.use(express.static(__dirname + '/public'));
+app.use(express.static(__dirname + '/view'));
 // Chama o index.html
 app.get('/', function (req, res) {
-    res.sendFile(__dirname + '/public/index.html');
+    res.sendFile(__dirname + '/view/index.html');
 });
 // Inicia o servidor na porta determinada
 http.listen(3000, function () {
